@@ -10,3 +10,10 @@
     border-radius: 5px;
     
 }
+
+.header{
+    background-color: aqua;
+}
+.footer{
+    background-color: antiquewhite;
+}
